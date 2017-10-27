@@ -38,6 +38,8 @@
 
 #include "IMU/imudata.h"
 
+#include <unistd.h>
+
 namespace ORB_SLAM2
 {
 

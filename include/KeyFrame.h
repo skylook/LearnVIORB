@@ -34,6 +34,8 @@
 #include "IMU/NavState.h"
 #include "IMU/IMUPreintegrator.h"
 
+#include <unistd.h>
+
 namespace ORB_SLAM2
 {
 

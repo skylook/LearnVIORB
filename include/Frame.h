@@ -36,6 +36,8 @@
 #include <IMU/NavState.h>
 #include <IMU/IMUPreintegrator.h>
 
+#include <unistd.h>
+
 namespace ORB_SLAM2
 {
 #define FRAME_GRID_ROWS 48
